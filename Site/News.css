@@ -1,0 +1,55 @@
+body{
+    background-color: #222222;
+}
+
+div.cartitle{
+    color: crimson;
+    font-size: 20px;
+}
+
+div.news{
+    color: crimson;
+    text-align: center;
+    line-height: 200px;
+    font-size: 70px;
+}
+
+div.car{
+    color: white;
+}
+
+div.badzombie2dtitle{
+    color: crimson;
+    font-size: 20px;
+}
+
+div.badzombie2d{
+    color: white;
+}
+
+div.badzombietitle{
+    color: crimson;
+    font-size: 20px;
+}
+
+div.badzombie{
+    color: white;
+}
+
+div.jumpermantitle{
+    color: crimson;
+    font-size: 20px;
+}
+
+div.jumperman{
+    color: white;
+}
+
+div.car2title{
+    color: crimson;
+    font-size: 20px;
+}
+
+div.car2{
+    color: white;
+}

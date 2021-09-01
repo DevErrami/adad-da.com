@@ -1,0 +1,28 @@
+body{
+    background-color: #222222;
+}
+
+div.Devone{
+    color: crimson;
+    text-align: center;
+    line-height: 200px;
+    font-size: 70px;
+}
+
+div.button{
+    line-height: 300px;
+    text-align: center;
+}
+
+div.Dev{
+    color: white;
+    font-size: 10px;
+}
+
+div.facebook{
+    text-align: center;
+}
+
+div.socialmedia{
+    text-align: center;
+}

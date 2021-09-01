@@ -1,0 +1,21 @@
+body{
+    background-color: #222222;
+}
+
+div.Dev{
+    color: crimson;
+    font-size: 70px;
+    text-align: center;
+    line-height: 200px;
+}
+
+div.Learn{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+div.button{
+    text-align: center;
+    line-height: 200px;
+}
